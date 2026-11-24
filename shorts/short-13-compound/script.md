@@ -22,3 +22,7 @@ Alex puts in one third as much and finishes $55,462 ahead.
 | 17.3–31.9 | REVEAL | deposit lines land on $108K / $36K; curves grow; heads pulse on their numbers | "Ben puts in a hundred and eight thousand. Alex? Just thirty six." / "But Alex's money had ten extra years to compound." / "At seven percent, Alex ends with four hundred twenty one thousand. Ben, three sixty six." |
 | 32.0–35.2 | TWIST | table returns, $36K pulses on "third", ALEX WINS stamp | "A third of the money, and he still wins." |
 | 36.0–39.5 | LOOP | title returns, punch-in reverses; last frame == frame 0 | "Start early. Ten years can beat thirty." |
+
+## Sound
+- SFX: `sfx-plan.json`, 100% library. Hero moments: curves land (riser → impact @ 27.1), payoff table (whoosh @ 32.0), ALEX WINS (stamp + chime @ 33.9). The rewind and the loop both use `whoosh-reverse`, so they rhyme.
+- Music auditions: `lofi-warm` and `cinematic-min`, hard-ducked under the voice. All mixes ≈ −15.3 LUFS.
