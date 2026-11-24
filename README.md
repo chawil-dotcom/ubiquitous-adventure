@@ -12,6 +12,7 @@ Built on [hassancs91/claude-faceless-shorts-creator](https://github.com/hassancs
 | # | Title | Composition | Folder |
 |---|---|---|---|
 | 13 | **10 Years Of Saving Beat 30** — compound interest: Alex saves $300/mo from 25–35 then stops, Ben from 35–65; Alex puts in a third as much and ends ahead ($421K vs $366K) | `Short13Compound` | [`shorts/short-13-compound/`](shorts/short-13-compound/) |
+| 14 | **The Rule Of 72** — 72 ÷ your rate = years to double: $10K at 8% doubles every 9 years ($20K → $40K → $80K by year 27); the same rule doubles 24% card debt in about 3 years | `Short14Rule72` | [`shorts/short-14-rule72/`](shorts/short-14-rule72/) |
 
 ## Using it
 

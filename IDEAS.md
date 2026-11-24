@@ -103,6 +103,13 @@ Goal: multiple niches, one per short, proving the FLOW (script → beats → lin
    - One new SFX recipe: `launch-thump` (a muffled mortar/rocket push, deliberately NOT a war-film cannon crack — brand §10's calm register). Audition at −15.6 LUFS.
    - Seeds the **physics series** (all reuse `lib/orbit.tsx`, which already exports `vEsc`/`period`/`gAt`): escape velocity · why the Moon doesn't fall · why rockets go sideways, not up · geostationary orbit · tides.
 
+13. **short-13 · Money math** — "10 Years Of Saving Beat 30" ✅ (`Short13Compound`; reuses `lib/chart.tsx`). Alex saves $300/mo from 25–35 then stops; Ben saves $300/mo from 35–65. At 7%: Alex puts in **$36K → $421,453**, Ben puts in **$108K → $365,991**. Shaded age bands carry the setup; dashed "put in" lines draw on the words that name them; a payoff table + ALEX WINS stamp is the twist. Voiced with the house voice "Mike".
+
+14. **short-14 · Money math** — "The Rule Of 72" ✅ (`Short14Rule72`; reuses `lib/chart.tsx`). One persistent chart ($10K at 8%) + an equation `72 ÷ 8 = 9` that is **built slot by slot on the words** ("seventy two" → "divide" → "eight" → "nine"). The reveal draws the curve in exact thirds — the series is sampled uniformly in x, so p = 1/3 is year 9 — and each doubling chip ($20K / $40K / $80K) lands on the word that names it. Twist: the same equation swaps to red `72 ÷ 24 = 3` — credit-card debt doubles in about three years.
+   - **Math verified:** exact doubling at 8% = ln2/ln1.08 = **9.006 years**; $10K → $19,990 / $39,960 / **$79,881** (annual compounding). 24% APR doubles in 2.92 y (monthly) / 3.22 y (annual) — so the VO says "**about** three years".
+   - SFX 100% library (pops on equation slots and chips; chime on "= 9"; riser→impact on $80K; stamp on DEBT). Music audition: `lofi-warm`. Both mixes ≈ −15.6 LUFS.
+   - Money series still queued: the minimum-payment trap · latte math done honestly.
+
 Each short adds at most ONE new niche lib; the shorts kit (captions, hook, pause card,
 progress bar) is shared by all.
 
